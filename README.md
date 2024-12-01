@@ -25,7 +25,7 @@ This project aims to automate the recognition of handwritten medical prescriptio
 
 The main project materials include:
 - `baseline.ipynb`: Combined segmentation + OCR pipeline.
-- `baseline_segmentation.ipynb`: Standalone segmentation solution.
+- `Instance_Segmentation.ipynb` and `model_ocr.ipynb`: Standalone segmentation solution.
 - `baseline_recognition.ipynb`: Standalone OCR baseline.
 
 ## Recognition steps
